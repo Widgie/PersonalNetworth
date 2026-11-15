@@ -1,6 +1,6 @@
 # Feed report
 
-Generated 2026-11-14T14:12:23+00:00
+Generated 2026-11-15T12:40:01+00:00
 
 Funds priced: 17/17
 
@@ -29,13 +29,13 @@ Funds priced: 17/17
 ```
 {
  "BTC": {
-  "price_gbp": 50298,
-  "as_of": "2026-11-14T14:12:11+00:00",
+  "price_gbp": 49442,
+  "as_of": "2026-11-15T12:40:00+00:00",
   "source": "coingecko"
  },
  "ETH": {
-  "price_gbp": 1417.26,
-  "as_of": "2026-11-14T14:12:11+00:00",
+  "price_gbp": 1382.5,
+  "as_of": "2026-11-15T12:40:00+00:00",
   "source": "coingecko"
  }
 }
