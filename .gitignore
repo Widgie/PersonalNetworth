@@ -1,0 +1,5 @@
+__pycache__/
+*.csv
+*.xlsx
+holdings*.json
+backup*.json

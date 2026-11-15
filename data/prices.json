@@ -1,0 +1,323 @@
+{
+ "crypto": {
+  "BTC": {
+   "as_of": "2026-11-14T14:12:11+00:00",
+   "price_gbp": 50298,
+   "source": "coingecko"
+  },
+  "ETH": {
+   "as_of": "2026-11-14T14:12:11+00:00",
+   "price_gbp": 1417.26,
+   "source": "coingecko"
+  }
+ },
+ "funds": {
+  "GB00B0CNH270": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 1.163,
+     "raw": 116.3,
+     "ref": "GB00B0CNH270:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "L&G Global Health & Pharmaceuticals Index I Inc",
+   "price_gbp": 1.163,
+   "source": "ft"
+  },
+  "GB00B2PB2C75": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 3.0883,
+     "raw": 308.83,
+     "ref": "GB00B2PB2C75:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "7IM AAP Adventurous C Acc",
+   "price_gbp": 3.0883,
+   "source": "ft"
+  },
+  "GB00B2Q6HW61": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 3.7110000000000003,
+     "raw": 371.1,
+     "ref": "GB00B2Q6HW61:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "L&G International Index Trust I Acc",
+   "price_gbp": 3.7110000000000003,
+   "source": "ft"
+  },
+  "GB00B4TL2D89": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 1.0534999999999999,
+     "raw": 105.35,
+     "ref": "GB00B4TL2D89:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "M&G Emerging Markets Bond I Inc",
+   "price_gbp": 1.0534999999999999,
+   "source": "ft"
+  },
+  "GB00B4W52V57": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 11.55,
+     "raw": 1155.0,
+     "ref": "GB00B4W52V57:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "AXA Framlington Global Technology Z Acc",
+   "price_gbp": 11.55,
+   "source": "ft"
+  },
+  "GB00B5B74684": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBP",
+     "price_gbp": 246.36,
+     "raw": 246.36,
+     "ref": "GB00B5B74684:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "Vanguard FTSE UK Equity Income Index Inc",
+   "price_gbp": 246.36,
+   "source": "ft"
+  },
+  "GB00B5B74S01": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBP",
+     "price_gbp": 1026.54,
+     "raw": 1026.54,
+     "ref": "GB00B5B74S01:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "Vanguard US Equity Index Inc",
+   "price_gbp": 1026.54,
+   "source": "ft"
+  },
+  "GB00B5MQXC30": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 11.55,
+     "raw": 1155.0,
+     "ref": "GB00B5MQXC30:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "AXA Framlington Global Technology Z Inc",
+   "price_gbp": 11.55,
+   "source": "ft"
+  },
+  "GB00B6QR2553": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 8.3811,
+     "raw": 838.11,
+     "ref": "GB00B6QR2553:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "Jupiter UK Income I Inc",
+   "price_gbp": 8.3811,
+   "source": "ft"
+  },
+  "GB00B6WZJX05": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 5.062,
+     "raw": 506.2,
+     "ref": "GB00B6WZJX05:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "AXA Framlington Health Z Acc",
+   "price_gbp": 5.062,
+   "source": "ft"
+  },
+  "GB00B706FQ75": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 3.3367,
+     "raw": 333.67,
+     "ref": "GB00B706FQ75:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "M&G Global Strategic Value I Inc",
+   "price_gbp": 3.3367,
+   "source": "ft"
+  },
+  "GB00B7PHDP01": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBP",
+     "price_gbp": 2.44,
+     "raw": 2.44,
+     "ref": "GB00B7PHDP01:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "HSBC Global Strategy Balanced C Inc",
+   "price_gbp": 2.44,
+   "source": "ft"
+  },
+  "GB00B80QGT40": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBP",
+     "price_gbp": 10.13,
+     "raw": 10.13,
+     "ref": "GB00B80QGT40:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "HSBC Pacific Index C Acc",
+   "price_gbp": 10.13,
+   "source": "ft"
+  },
+  "GB00B83LW328": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 6.695,
+     "raw": 669.5,
+     "ref": "GB00B83LW328:GBX"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "L&G Global Equity Index I Acc",
+   "price_gbp": 6.695,
+   "source": "ft"
+  },
+  "GB00BJS8SF95": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 2.5493,
+     "raw": 254.93,
+     "ref": "GB00BJS8SF95:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "Fidelity Index UK P Acc",
+   "price_gbp": 2.5493,
+   "source": "ft"
+  },
+  "GB00BP8RY614": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 1.6894,
+     "raw": 168.94,
+     "ref": "GB00BP8RY614:GBX"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "Fidelity Index UK P Inc",
+   "price_gbp": 1.6894,
+   "source": "ft"
+  },
+  "GB00BRJZVL27": {
+   "as_of": "2026-11-13",
+   "candidates": {
+    "ft": {
+     "as_of": "2026-11-13",
+     "currency": "GBX",
+     "price_gbp": 2.272,
+     "raw": 227.2,
+     "ref": "GB00BRJZVL27:GBP"
+    },
+    "yahoo": {
+     "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+   },
+   "name": "AXA Framlington Biotech Z Inc",
+   "price_gbp": 2.272,
+   "source": "ft"
+  }
+ },
+ "generated_at": "2026-11-14T14:12:23+00:00"
+}

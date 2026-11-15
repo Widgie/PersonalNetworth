@@ -1,0 +1,26 @@
+{
+  "_note": "Public price list only. No units, values, account numbers or personal data belong in this repo.",
+  "funds": [
+    {"isin": "GB00B2PB2C75", "name": "7IM AAP Adventurous C Acc"},
+    {"isin": "GB00B4W52V57", "name": "AXA Framlington Global Technology Z Acc"},
+    {"isin": "GB00B6WZJX05", "name": "AXA Framlington Health Z Acc"},
+    {"isin": "GB00BJS8SF95", "name": "Fidelity Index UK P Acc"},
+    {"isin": "GB00B2Q6HW61", "name": "L&G International Index Trust I Acc"},
+    {"isin": "GB00B4TL2D89", "name": "M&G Emerging Markets Bond I Inc"},
+    {"isin": "GB00B706FQ75", "name": "M&G Global Strategic Value I Inc"},
+    {"isin": "GB00B5B74684", "name": "Vanguard FTSE UK Equity Income Index Inc"},
+    {"isin": "GB00BRJZVL27", "name": "AXA Framlington Biotech Z Inc"},
+    {"isin": "GB00B5MQXC30", "name": "AXA Framlington Global Technology Z Inc"},
+    {"isin": "GB00BP8RY614", "name": "Fidelity Index UK P Inc"},
+    {"isin": "GB00B7PHDP01", "name": "HSBC Global Strategy Balanced C Inc"},
+    {"isin": "GB00B80QGT40", "name": "HSBC Pacific Index C Acc"},
+    {"isin": "GB00B6QR2553", "name": "Jupiter UK Income I Inc"},
+    {"isin": "GB00B83LW328", "name": "L&G Global Equity Index I Acc"},
+    {"isin": "GB00B0CNH270", "name": "L&G Global Health & Pharmaceuticals Index I Inc"},
+    {"isin": "GB00B5B74S01", "name": "Vanguard US Equity Index Inc"}
+  ],
+  "crypto": [
+    {"symbol": "BTC", "coingecko_id": "bitcoin"},
+    {"symbol": "ETH", "coingecko_id": "ethereum"}
+  ]
+}
