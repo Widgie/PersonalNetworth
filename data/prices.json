@@ -1,13 +1,13 @@
 {
  "crypto": {
   "BTC": {
-   "as_of": "2026-11-15T12:44:11+00:00",
-   "price_gbp": 49412,
+   "as_of": "2026-11-16T17:05:27+00:00",
+   "price_gbp": 49193,
    "source": "coingecko"
   },
   "ETH": {
-   "as_of": "2026-11-15T12:44:11+00:00",
-   "price_gbp": 1381.76,
+   "as_of": "2026-11-16T17:05:27+00:00",
+   "price_gbp": 1384.82,
    "source": "coingecko"
   }
  },
@@ -31,13 +31,13 @@
    "source": "ft"
   },
   "GB00B2PB2C75": {
-   "as_of": "2026-11-13",
+   "as_of": "2026-11-16",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-13",
+     "as_of": "2026-11-16",
      "currency": "GBX",
-     "price_gbp": 3.0883,
-     "raw": 308.83,
+     "price_gbp": 3.0753,
+     "raw": 307.53,
      "ref": "GB00B2PB2C75:GBP"
     },
     "yahoo": {
@@ -45,7 +45,7 @@
     }
    },
    "name": "7IM AAP Adventurous C Acc",
-   "price_gbp": 3.0883,
+   "price_gbp": 3.0753,
    "source": "ft"
   },
   "GB00B2Q6HW61": {
@@ -319,5 +319,5 @@
    "source": "ft"
   }
  },
- "generated_at": "2026-11-15T12:44:14+00:00"
+ "generated_at": "2026-11-16T17:05:38+00:00"
 }

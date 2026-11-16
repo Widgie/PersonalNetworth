@@ -1,12 +1,12 @@
 # Feed report
 
-Generated 2026-11-15T12:44:14+00:00
+Generated 2026-11-16T17:05:38+00:00
 
 Funds priced: 17/17
 
 | ISIN | Fund | ft | yahoo |
 |---|---|---|---|
-| GB00B2PB2C75 | 7IM AAP Adventurous C Acc | 308.83 GBX @ 2026-11-13 | FAIL |
+| GB00B2PB2C75 | 7IM AAP Adventurous C Acc | 307.53 GBX @ 2026-11-16 | FAIL |
 | GB00B4W52V57 | AXA Framlington Global Technology Z Acc | 1155.0 GBX @ 2026-11-13 | FAIL |
 | GB00B6WZJX05 | AXA Framlington Health Z Acc | 506.2 GBX @ 2026-11-13 | FAIL |
 | GB00BJS8SF95 | Fidelity Index UK P Acc | 254.93 GBX @ 2026-11-13 | FAIL |
@@ -29,13 +29,13 @@ Funds priced: 17/17
 ```
 {
  "BTC": {
-  "price_gbp": 49412,
-  "as_of": "2026-11-15T12:44:11+00:00",
+  "price_gbp": 49193,
+  "as_of": "2026-11-16T17:05:27+00:00",
   "source": "coingecko"
  },
  "ETH": {
-  "price_gbp": 1381.76,
-  "as_of": "2026-11-15T12:44:11+00:00",
+  "price_gbp": 1384.82,
+  "as_of": "2026-11-16T17:05:27+00:00",
   "source": "coingecko"
  }
 }
