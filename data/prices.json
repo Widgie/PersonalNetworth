@@ -1,13 +1,13 @@
 {
  "crypto": {
   "BTC": {
-   "as_of": "2026-11-17T03:50:00+00:00",
-   "price_gbp": 49243,
+   "as_of": "2026-11-17T16:54:55+00:00",
+   "price_gbp": 48127,
    "source": "coingecko"
   },
   "ETH": {
-   "as_of": "2026-11-17T03:50:00+00:00",
-   "price_gbp": 1387.32,
+   "as_of": "2026-11-17T16:54:55+00:00",
+   "price_gbp": 1342.16,
    "source": "coingecko"
   }
  },
@@ -31,13 +31,13 @@
    "source": "ft"
   },
   "GB00B2PB2C75": {
-   "as_of": "2026-11-16",
+   "as_of": "2026-11-17",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-16",
+     "as_of": "2026-11-17",
      "currency": "GBX",
-     "price_gbp": 3.0753,
-     "raw": 307.53,
+     "price_gbp": 3.0542000000000002,
+     "raw": 305.42,
      "ref": "GB00B2PB2C75:GBP"
     },
     "yahoo": {
@@ -45,7 +45,7 @@
     }
    },
    "name": "7IM AAP Adventurous C Acc",
-   "price_gbp": 3.0753,
+   "price_gbp": 3.0542000000000002,
    "source": "ft"
   },
   "GB00B2Q6HW61": {
@@ -121,13 +121,13 @@
    "source": "ft"
   },
   "GB00B5B74S01": {
-   "as_of": "2026-11-13",
+   "as_of": "2026-11-16",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-13",
+     "as_of": "2026-11-16",
      "currency": "GBP",
-     "price_gbp": 1026.54,
-     "raw": 1026.54,
+     "price_gbp": 1009.63,
+     "raw": 1009.63,
      "ref": "GB00B5B74S01:GBP"
     },
     "yahoo": {
@@ -135,7 +135,7 @@
     }
    },
    "name": "Vanguard US Equity Index Inc",
-   "price_gbp": 1026.54,
+   "price_gbp": 1009.63,
    "source": "ft"
   },
   "GB00B5MQXC30": {
@@ -157,13 +157,13 @@
    "source": "ft"
   },
   "GB00B6QR2553": {
-   "as_of": "2026-11-16",
+   "as_of": "2026-11-17",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-16",
+     "as_of": "2026-11-17",
      "currency": "GBX",
-     "price_gbp": 8.441799999999999,
-     "raw": 844.18,
+     "price_gbp": 8.3637,
+     "raw": 836.37,
      "ref": "GB00B6QR2553:GBP"
     },
     "yahoo": {
@@ -171,7 +171,7 @@
     }
    },
    "name": "Jupiter UK Income I Inc",
-   "price_gbp": 8.441799999999999,
+   "price_gbp": 8.3637,
    "source": "ft"
   },
   "GB00B6WZJX05": {
@@ -319,5 +319,5 @@
    "source": "ft"
   }
  },
- "generated_at": "2026-11-17T03:50:17+00:00"
+ "generated_at": "2026-11-17T16:55:01+00:00"
 }
