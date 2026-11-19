@@ -1,25 +1,25 @@
 {
  "crypto": {
   "BTC": {
-   "as_of": "2026-11-18T16:29:24+00:00",
-   "price_gbp": 47521,
+   "as_of": "2026-11-19T02:32:42+00:00",
+   "price_gbp": 47654,
    "source": "coingecko"
   },
   "ETH": {
-   "as_of": "2026-11-18T16:29:14+00:00",
-   "price_gbp": 1332.37,
+   "as_of": "2026-11-19T02:32:52+00:00",
+   "price_gbp": 1348.28,
    "source": "coingecko"
   }
  },
  "funds": {
   "GB00B0CNH270": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 1.156,
-     "raw": 115.6,
+     "price_gbp": 1.147,
+     "raw": 114.7,
      "ref": "GB00B0CNH270:GBP"
     },
     "yahoo": {
@@ -27,17 +27,17 @@
     }
    },
    "name": "L&G Global Health & Pharmaceuticals Index I Inc",
-   "price_gbp": 1.156,
+   "price_gbp": 1.147,
    "source": "ft"
   },
   "GB00B2PB2C75": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 3.0542000000000002,
-     "raw": 305.42,
+     "price_gbp": 3.0216000000000003,
+     "raw": 302.16,
      "ref": "GB00B2PB2C75:GBP"
     },
     "yahoo": {
@@ -45,17 +45,17 @@
     }
    },
    "name": "7IM AAP Adventurous C Acc",
-   "price_gbp": 3.0542000000000002,
+   "price_gbp": 3.0216000000000003,
    "source": "ft"
   },
   "GB00B2Q6HW61": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 3.638,
-     "raw": 363.8,
+     "price_gbp": 3.6180000000000003,
+     "raw": 361.8,
      "ref": "GB00B2Q6HW61:GBP"
     },
     "yahoo": {
@@ -63,17 +63,17 @@
     }
    },
    "name": "L&G International Index Trust I Acc",
-   "price_gbp": 3.638,
+   "price_gbp": 3.6180000000000003,
    "source": "ft"
   },
   "GB00B4TL2D89": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 1.053,
-     "raw": 105.3,
+     "price_gbp": 1.0539,
+     "raw": 105.39,
      "ref": "GB00B4TL2D89:GBP"
     },
     "yahoo": {
@@ -81,17 +81,17 @@
     }
    },
    "name": "M&G Emerging Markets Bond I Inc",
-   "price_gbp": 1.053,
+   "price_gbp": 1.0539,
    "source": "ft"
   },
   "GB00B4W52V57": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 10.88,
-     "raw": 1088.0,
+     "price_gbp": 10.84,
+     "raw": 1084.0,
      "ref": "GB00B4W52V57:GBP"
     },
     "yahoo": {
@@ -99,17 +99,17 @@
     }
    },
    "name": "AXA Framlington Global Technology Z Acc",
-   "price_gbp": 10.88,
+   "price_gbp": 10.84,
    "source": "ft"
   },
   "GB00B5B74684": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBP",
-     "price_gbp": 242.48,
-     "raw": 242.48,
+     "price_gbp": 239.96,
+     "raw": 239.96,
      "ref": "GB00B5B74684:GBP"
     },
     "yahoo": {
@@ -117,17 +117,17 @@
     }
    },
    "name": "Vanguard FTSE UK Equity Income Index Inc",
-   "price_gbp": 242.48,
+   "price_gbp": 239.96,
    "source": "ft"
   },
   "GB00B5B74S01": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBP",
-     "price_gbp": 997.23,
-     "raw": 997.23,
+     "price_gbp": 999.98,
+     "raw": 999.98,
      "ref": "GB00B5B74S01:GBP"
     },
     "yahoo": {
@@ -135,17 +135,17 @@
     }
    },
    "name": "Vanguard US Equity Index Inc",
-   "price_gbp": 997.23,
+   "price_gbp": 999.98,
    "source": "ft"
   },
   "GB00B5MQXC30": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 10.88,
-     "raw": 1088.0,
+     "price_gbp": 10.85,
+     "raw": 1085.0,
      "ref": "GB00B5MQXC30:GBP"
     },
     "yahoo": {
@@ -153,17 +153,17 @@
     }
    },
    "name": "AXA Framlington Global Technology Z Inc",
-   "price_gbp": 10.88,
+   "price_gbp": 10.85,
    "source": "ft"
   },
   "GB00B6QR2553": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 8.3637,
-     "raw": 836.37,
+     "price_gbp": 8.260399999999999,
+     "raw": 826.04,
      "ref": "GB00B6QR2553:GBP"
     },
     "yahoo": {
@@ -171,17 +171,17 @@
     }
    },
    "name": "Jupiter UK Income I Inc",
-   "price_gbp": 8.3637,
+   "price_gbp": 8.260399999999999,
    "source": "ft"
   },
   "GB00B6WZJX05": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 5.052,
-     "raw": 505.2,
+     "price_gbp": 4.994,
+     "raw": 499.4,
      "ref": "GB00B6WZJX05:GBP"
     },
     "yahoo": {
@@ -189,17 +189,17 @@
     }
    },
    "name": "AXA Framlington Health Z Acc",
-   "price_gbp": 5.052,
+   "price_gbp": 4.994,
    "source": "ft"
   },
   "GB00B706FQ75": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 3.319,
-     "raw": 331.9,
+     "price_gbp": 3.2870999999999997,
+     "raw": 328.71,
      "ref": "GB00B706FQ75:GBP"
     },
     "yahoo": {
@@ -207,17 +207,17 @@
     }
    },
    "name": "M&G Global Strategic Value I Inc",
-   "price_gbp": 3.319,
+   "price_gbp": 3.2870999999999997,
    "source": "ft"
   },
   "GB00B7PHDP01": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBP",
-     "price_gbp": 2.4,
-     "raw": 2.4,
+     "price_gbp": 2.39,
+     "raw": 2.39,
      "ref": "GB00B7PHDP01:GBP"
     },
     "yahoo": {
@@ -225,17 +225,17 @@
     }
    },
    "name": "HSBC Global Strategy Balanced C Inc",
-   "price_gbp": 2.4,
+   "price_gbp": 2.39,
    "source": "ft"
   },
   "GB00B80QGT40": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBP",
-     "price_gbp": 9.61,
-     "raw": 9.61,
+     "price_gbp": 9.67,
+     "raw": 9.67,
      "ref": "GB00B80QGT40:GBP"
     },
     "yahoo": {
@@ -243,17 +243,17 @@
     }
    },
    "name": "HSBC Pacific Index C Acc",
-   "price_gbp": 9.61,
+   "price_gbp": 9.67,
    "source": "ft"
   },
   "GB00B83LW328": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 6.564,
-     "raw": 656.4,
+     "price_gbp": 6.527,
+     "raw": 652.7,
      "ref": "GB00B83LW328:GBX"
     },
     "yahoo": {
@@ -261,17 +261,17 @@
     }
    },
    "name": "L&G Global Equity Index I Acc",
-   "price_gbp": 6.564,
+   "price_gbp": 6.527,
    "source": "ft"
   },
   "GB00BJS8SF95": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 2.5316,
-     "raw": 253.16,
+     "price_gbp": 2.4969,
+     "raw": 249.69,
      "ref": "GB00BJS8SF95:GBP"
     },
     "yahoo": {
@@ -279,17 +279,17 @@
     }
    },
    "name": "Fidelity Index UK P Acc",
-   "price_gbp": 2.5316,
+   "price_gbp": 2.4969,
    "source": "ft"
   },
   "GB00BP8RY614": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 1.6776,
-     "raw": 167.76,
+     "price_gbp": 1.6547,
+     "raw": 165.47,
      "ref": "GB00BP8RY614:GBX"
     },
     "yahoo": {
@@ -297,17 +297,17 @@
     }
    },
    "name": "Fidelity Index UK P Inc",
-   "price_gbp": 1.6776,
+   "price_gbp": 1.6547,
    "source": "ft"
   },
   "GB00BRJZVL27": {
-   "as_of": "2026-11-17",
+   "as_of": "2026-11-18",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-17",
+     "as_of": "2026-11-18",
      "currency": "GBX",
-     "price_gbp": 2.255,
-     "raw": 225.5,
+     "price_gbp": 2.2430000000000003,
+     "raw": 224.3,
      "ref": "GB00BRJZVL27:GBP"
     },
     "yahoo": {
@@ -315,9 +315,9 @@
     }
    },
    "name": "AXA Framlington Biotech Z Inc",
-   "price_gbp": 2.255,
+   "price_gbp": 2.2430000000000003,
    "source": "ft"
   }
  },
- "generated_at": "2026-11-18T16:29:22+00:00"
+ "generated_at": "2026-11-19T02:32:57+00:00"
 }
