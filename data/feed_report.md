@@ -1,12 +1,12 @@
 # Feed report
 
-Generated 2026-11-19T02:32:57+00:00
+Generated 2026-11-19T16:36:53+00:00
 
 Funds priced: 17/17
 
 | ISIN | Fund | ft | yahoo |
 |---|---|---|---|
-| GB00B2PB2C75 | 7IM AAP Adventurous C Acc | 302.16 GBX @ 2026-11-18 | FAIL |
+| GB00B2PB2C75 | 7IM AAP Adventurous C Acc | 300.76 GBX @ 2026-11-19 | FAIL |
 | GB00B4W52V57 | AXA Framlington Global Technology Z Acc | 1084.0 GBX @ 2026-11-18 | FAIL |
 | GB00B6WZJX05 | AXA Framlington Health Z Acc | 499.4 GBX @ 2026-11-18 | FAIL |
 | GB00BJS8SF95 | Fidelity Index UK P Acc | 249.69 GBX @ 2026-11-18 | FAIL |
@@ -19,7 +19,7 @@ Funds priced: 17/17
 | GB00BP8RY614 | Fidelity Index UK P Inc | 165.47 GBX @ 2026-11-18 | FAIL |
 | GB00B7PHDP01 | HSBC Global Strategy Balanced C Inc | 2.39 GBP @ 2026-11-18 | FAIL |
 | GB00B80QGT40 | HSBC Pacific Index C Acc | 9.67 GBP @ 2026-11-18 | FAIL |
-| GB00B6QR2553 | Jupiter UK Income I Inc | 826.04 GBX @ 2026-11-18 | FAIL |
+| GB00B6QR2553 | Jupiter UK Income I Inc | 815.66 GBX @ 2026-11-19 | FAIL |
 | GB00B83LW328 | L&G Global Equity Index I Acc | 652.7 GBX @ 2026-11-18 | FAIL |
 | GB00B0CNH270 | L&G Global Health & Pharmaceuticals Index I Inc | 114.7 GBX @ 2026-11-18 | FAIL |
 | GB00B5B74S01 | Vanguard US Equity Index Inc | 999.98 GBP @ 2026-11-18 | FAIL |
@@ -29,13 +29,13 @@ Funds priced: 17/17
 ```
 {
  "BTC": {
-  "price_gbp": 47654,
-  "as_of": "2026-11-19T02:32:42+00:00",
+  "price_gbp": 48073,
+  "as_of": "2026-11-19T16:36:40+00:00",
   "source": "coingecko"
  },
  "ETH": {
-  "price_gbp": 1348.28,
-  "as_of": "2026-11-19T02:32:52+00:00",
+  "price_gbp": 1355.45,
+  "as_of": "2026-11-19T16:36:40+00:00",
   "source": "coingecko"
  }
 }

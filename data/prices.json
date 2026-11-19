@@ -1,13 +1,13 @@
 {
  "crypto": {
   "BTC": {
-   "as_of": "2026-11-19T02:32:42+00:00",
-   "price_gbp": 47654,
+   "as_of": "2026-11-19T16:36:40+00:00",
+   "price_gbp": 48073,
    "source": "coingecko"
   },
   "ETH": {
-   "as_of": "2026-11-19T02:32:52+00:00",
-   "price_gbp": 1348.28,
+   "as_of": "2026-11-19T16:36:40+00:00",
+   "price_gbp": 1355.45,
    "source": "coingecko"
   }
  },
@@ -31,13 +31,13 @@
    "source": "ft"
   },
   "GB00B2PB2C75": {
-   "as_of": "2026-11-18",
+   "as_of": "2026-11-19",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-18",
+     "as_of": "2026-11-19",
      "currency": "GBX",
-     "price_gbp": 3.0216000000000003,
-     "raw": 302.16,
+     "price_gbp": 3.0076,
+     "raw": 300.76,
      "ref": "GB00B2PB2C75:GBP"
     },
     "yahoo": {
@@ -45,7 +45,7 @@
     }
    },
    "name": "7IM AAP Adventurous C Acc",
-   "price_gbp": 3.0216000000000003,
+   "price_gbp": 3.0076,
    "source": "ft"
   },
   "GB00B2Q6HW61": {
@@ -157,13 +157,13 @@
    "source": "ft"
   },
   "GB00B6QR2553": {
-   "as_of": "2026-11-18",
+   "as_of": "2026-11-19",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-18",
+     "as_of": "2026-11-19",
      "currency": "GBX",
-     "price_gbp": 8.260399999999999,
-     "raw": 826.04,
+     "price_gbp": 8.1566,
+     "raw": 815.66,
      "ref": "GB00B6QR2553:GBP"
     },
     "yahoo": {
@@ -171,7 +171,7 @@
     }
    },
    "name": "Jupiter UK Income I Inc",
-   "price_gbp": 8.260399999999999,
+   "price_gbp": 8.1566,
    "source": "ft"
   },
   "GB00B6WZJX05": {
@@ -319,5 +319,5 @@
    "source": "ft"
   }
  },
- "generated_at": "2026-11-19T02:32:57+00:00"
+ "generated_at": "2026-11-19T16:36:53+00:00"
 }
