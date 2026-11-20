@@ -1,13 +1,13 @@
 {
  "crypto": {
   "BTC": {
-   "as_of": "2026-11-20T02:18:04+00:00",
-   "price_gbp": 47013,
+   "as_of": "2026-11-20T16:11:59+00:00",
+   "price_gbp": 45292,
    "source": "coingecko"
   },
   "ETH": {
-   "as_of": "2026-11-20T02:18:04+00:00",
-   "price_gbp": 1326.24,
+   "as_of": "2026-11-20T16:11:59+00:00",
+   "price_gbp": 1256.76,
    "source": "coingecko"
   }
  },
@@ -31,13 +31,13 @@
    "source": "ft"
   },
   "GB00B2PB2C75": {
-   "as_of": "2026-11-19",
+   "as_of": "2026-11-20",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-19",
+     "as_of": "2026-11-20",
      "currency": "GBX",
-     "price_gbp": 3.0076,
-     "raw": 300.76,
+     "price_gbp": 2.9631,
+     "raw": 296.31,
      "ref": "GB00B2PB2C75:GBP"
     },
     "yahoo": {
@@ -45,7 +45,7 @@
     }
    },
    "name": "7IM AAP Adventurous C Acc",
-   "price_gbp": 3.0076,
+   "price_gbp": 2.9631,
    "source": "ft"
   },
   "GB00B2Q6HW61": {
@@ -121,13 +121,13 @@
    "source": "ft"
   },
   "GB00B5B74S01": {
-   "as_of": "2026-11-18",
+   "as_of": "2026-11-19",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-18",
+     "as_of": "2026-11-19",
      "currency": "GBP",
-     "price_gbp": 999.98,
-     "raw": 999.98,
+     "price_gbp": 982.17,
+     "raw": 982.17,
      "ref": "GB00B5B74S01:GBP"
     },
     "yahoo": {
@@ -135,7 +135,7 @@
     }
    },
    "name": "Vanguard US Equity Index Inc",
-   "price_gbp": 999.98,
+   "price_gbp": 982.17,
    "source": "ft"
   },
   "GB00B5MQXC30": {
@@ -319,5 +319,5 @@
    "source": "ft"
   }
  },
- "generated_at": "2026-11-20T02:18:05+00:00"
+ "generated_at": "2026-11-20T16:12:10+00:00"
 }

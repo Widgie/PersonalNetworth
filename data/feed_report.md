@@ -1,12 +1,12 @@
 # Feed report
 
-Generated 2026-11-20T02:18:05+00:00
+Generated 2026-11-20T16:12:10+00:00
 
 Funds priced: 17/17
 
 | ISIN | Fund | ft | yahoo |
 |---|---|---|---|
-| GB00B2PB2C75 | 7IM AAP Adventurous C Acc | 300.76 GBX @ 2026-11-19 | FAIL |
+| GB00B2PB2C75 | 7IM AAP Adventurous C Acc | 296.31 GBX @ 2026-11-20 | FAIL |
 | GB00B4W52V57 | AXA Framlington Global Technology Z Acc | 1116.0 GBX @ 2026-11-19 | FAIL |
 | GB00B6WZJX05 | AXA Framlington Health Z Acc | 495.6 GBX @ 2026-11-19 | FAIL |
 | GB00BJS8SF95 | Fidelity Index UK P Acc | 246.89 GBX @ 2026-11-19 | FAIL |
@@ -22,20 +22,20 @@ Funds priced: 17/17
 | GB00B6QR2553 | Jupiter UK Income I Inc | 815.66 GBX @ 2026-11-19 | FAIL |
 | GB00B83LW328 | L&G Global Equity Index I Acc | 653.5 GBX @ 2026-11-19 | FAIL |
 | GB00B0CNH270 | L&G Global Health & Pharmaceuticals Index I Inc | 112.4 GBX @ 2026-11-19 | FAIL |
-| GB00B5B74S01 | Vanguard US Equity Index Inc | 999.98 GBP @ 2026-11-18 | FAIL |
+| GB00B5B74S01 | Vanguard US Equity Index Inc | 982.17 GBP @ 2026-11-19 | FAIL |
 
 ## Crypto
 
 ```
 {
  "BTC": {
-  "price_gbp": 47013,
-  "as_of": "2026-11-20T02:18:04+00:00",
+  "price_gbp": 45292,
+  "as_of": "2026-11-20T16:11:59+00:00",
   "source": "coingecko"
  },
  "ETH": {
-  "price_gbp": 1326.24,
-  "as_of": "2026-11-20T02:18:04+00:00",
+  "price_gbp": 1256.76,
+  "as_of": "2026-11-20T16:11:59+00:00",
   "source": "coingecko"
  }
 }
