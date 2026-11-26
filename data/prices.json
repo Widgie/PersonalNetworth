@@ -1,25 +1,25 @@
 {
  "crypto": {
   "BTC": {
-   "as_of": "2026-11-25T17:59:06+00:00",
-   "price_gbp": 45414,
+   "as_of": "2026-11-26T03:32:30+00:00",
+   "price_gbp": 46277,
    "source": "coingecko"
   },
   "ETH": {
-   "as_of": "2026-11-25T17:59:26+00:00",
-   "price_gbp": 1278.89,
+   "as_of": "2026-11-26T03:32:30+00:00",
+   "price_gbp": 1292.76,
    "source": "coingecko"
   }
  },
  "funds": {
   "GB00B0CNH270": {
-   "as_of": "2026-11-24",
+   "as_of": "2026-11-25",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-24",
+     "as_of": "2026-11-25",
      "currency": "GBX",
-     "price_gbp": 1.148,
-     "raw": 114.8,
+     "price_gbp": 1.1540000000000001,
+     "raw": 115.4,
      "ref": "GB00B0CNH270:GBP"
     },
     "yahoo": {
@@ -27,7 +27,7 @@
     }
    },
    "name": "L&G Global Health & Pharmaceuticals Index I Inc",
-   "price_gbp": 1.148,
+   "price_gbp": 1.1540000000000001,
    "source": "ft"
   },
   "GB00B2PB2C75": {
@@ -49,13 +49,13 @@
    "source": "ft"
   },
   "GB00B2Q6HW61": {
-   "as_of": "2026-11-24",
+   "as_of": "2026-11-25",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-24",
+     "as_of": "2026-11-25",
      "currency": "GBX",
-     "price_gbp": 3.5660000000000003,
-     "raw": 356.6,
+     "price_gbp": 3.502,
+     "raw": 350.2,
      "ref": "GB00B2Q6HW61:GBP"
     },
     "yahoo": {
@@ -63,7 +63,7 @@
     }
    },
    "name": "L&G International Index Trust I Acc",
-   "price_gbp": 3.5660000000000003,
+   "price_gbp": 3.502,
    "source": "ft"
   },
   "GB00B4TL2D89": {
@@ -103,13 +103,13 @@
    "source": "ft"
   },
   "GB00B5B74684": {
-   "as_of": "2026-11-24",
+   "as_of": "2026-11-25",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-24",
+     "as_of": "2026-11-25",
      "currency": "GBP",
-     "price_gbp": 236.72,
-     "raw": 236.72,
+     "price_gbp": 236.79,
+     "raw": 236.79,
      "ref": "GB00B5B74684:GBP"
     },
     "yahoo": {
@@ -117,7 +117,7 @@
     }
    },
    "name": "Vanguard FTSE UK Equity Income Index Inc",
-   "price_gbp": 236.72,
+   "price_gbp": 236.79,
    "source": "ft"
   },
   "GB00B5B74S01": {
@@ -247,13 +247,13 @@
    "source": "ft"
   },
   "GB00B83LW328": {
-   "as_of": "2026-11-24",
+   "as_of": "2026-11-25",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-24",
+     "as_of": "2026-11-25",
      "currency": "GBX",
-     "price_gbp": 6.433,
-     "raw": 643.3,
+     "price_gbp": 6.321000000000001,
+     "raw": 632.1,
      "ref": "GB00B83LW328:GBX"
     },
     "yahoo": {
@@ -261,7 +261,7 @@
     }
    },
    "name": "L&G Global Equity Index I Acc",
-   "price_gbp": 6.433,
+   "price_gbp": 6.321000000000001,
    "source": "ft"
   },
   "GB00BJS8SF95": {
@@ -319,5 +319,5 @@
    "source": "ft"
   }
  },
- "generated_at": "2026-11-25T17:59:23+00:00"
+ "generated_at": "2026-11-26T03:32:46+00:00"
 }
