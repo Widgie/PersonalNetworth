@@ -1,13 +1,13 @@
 {
  "crypto": {
   "BTC": {
-   "as_of": "2026-11-28T03:17:31+00:00",
-   "price_gbp": 45755,
+   "as_of": "2026-11-28T16:13:36+00:00",
+   "price_gbp": 45395,
    "source": "coingecko"
   },
   "ETH": {
-   "as_of": "2026-11-28T03:17:31+00:00",
-   "price_gbp": 1269.88,
+   "as_of": "2026-11-28T16:13:36+00:00",
+   "price_gbp": 1258.63,
    "source": "coingecko"
   }
  },
@@ -121,13 +121,13 @@
    "source": "ft"
   },
   "GB00B5B74S01": {
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "candidates": {
     "ft": {
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "currency": "GBP",
-     "price_gbp": 985.3,
-     "raw": 985.3,
+     "price_gbp": 1001.59,
+     "raw": 1001.59,
      "ref": "GB00B5B74S01:GBP"
     },
     "yahoo": {
@@ -135,7 +135,7 @@
     }
    },
    "name": "Vanguard US Equity Index Inc",
-   "price_gbp": 985.3,
+   "price_gbp": 1001.59,
    "source": "ft"
   },
   "GB00B5MQXC30": {
@@ -319,5 +319,5 @@
    "source": "ft"
   }
  },
- "generated_at": "2026-11-28T03:17:33+00:00"
+ "generated_at": "2026-11-28T16:13:34+00:00"
 }

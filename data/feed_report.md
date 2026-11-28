@@ -1,6 +1,6 @@
 # Feed report
 
-Generated 2026-11-28T03:17:33+00:00
+Generated 2026-11-28T16:13:34+00:00
 
 Funds priced: 17/17
 
@@ -22,20 +22,20 @@ Funds priced: 17/17
 | GB00B6QR2553 | Jupiter UK Income I Inc | 837.49 GBX @ 2026-11-27 | FAIL |
 | GB00B83LW328 | L&G Global Equity Index I Acc | 644.9 GBX @ 2026-11-27 | FAIL |
 | GB00B0CNH270 | L&G Global Health & Pharmaceuticals Index I Inc | 115.1 GBX @ 2026-11-27 | FAIL |
-| GB00B5B74S01 | Vanguard US Equity Index Inc | 985.3 GBP @ 2026-11-26 | FAIL |
+| GB00B5B74S01 | Vanguard US Equity Index Inc | 1001.59 GBP @ 2026-11-27 | FAIL |
 
 ## Crypto
 
 ```
 {
  "BTC": {
-  "price_gbp": 45755,
-  "as_of": "2026-11-28T03:17:31+00:00",
+  "price_gbp": 45395,
+  "as_of": "2026-11-28T16:13:36+00:00",
   "source": "coingecko"
  },
  "ETH": {
-  "price_gbp": 1269.88,
-  "as_of": "2026-11-28T03:17:31+00:00",
+  "price_gbp": 1258.63,
+  "as_of": "2026-11-28T16:13:36+00:00",
   "source": "coingecko"
  }
 }
